@@ -1,0 +1,4 @@
+- GET '/montres' - Récupérer toutes les recettes
+- GET '/montres/:recipeId' - Récupérer une recette
+- POST '/cuisines/add' - Ajouter une cuisine
+  - Body : '{ name : String }'
